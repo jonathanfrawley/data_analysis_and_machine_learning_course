@@ -1,0 +1,13 @@
+Hi everyone,
+
+This is a note about the online course "Introduction to Data Analysis and Machine Learning" which you are scheduled to take part in next Friday, 24th April at 9:30am.
+
+There are some short actions for you to perform in advance of the meeting:
+
+ 1. Please register for the Zoom meeting: https://durhamuniversity.zoom.us/meeting/register/tJEscuCsqDwuHdT9LdZfK-q5WgPxBWKnQQwW 
+ 2. We will be using Google Colab for this course. You will need a modern web browser (Google Chrome, Firefox or Brave should all work). Please test out this example notebook to familiarise yourself with the process, as you will be using it extensively: https://colab.research.google.com/drive/1gd6LLxdt6PiYND7q5JpQOcd201P5k55X
+
+If you have any questions or issues with Zoom or Colab, please get in touch.
+
+Thanks,
+Jonathan
