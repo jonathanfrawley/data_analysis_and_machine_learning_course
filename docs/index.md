@@ -1,7 +1,7 @@
 # Introduction to Data Analysis and Machine Learning Course
 *by Jonathan Frawley*
 
-This page: [https://bit.ly/3bpUjF4](https://bit.ly/3bpUjF4)
+This page: <https://bit.ly/3bpUjF4>
 
 This is the entry point for ARC's Introduction to Data Analysis and Machine Learning course.
 If you notice any mistakes, please send a message in Zoom to one of the organisers.
@@ -20,10 +20,10 @@ If you have any questions or issues, feel free to ask one of our instructors.
 
 ## Part 1: Introduction to Probability
 ### Slides
-https://bit.ly/2VNQR0z
+<https://bit.ly/2VNQR0z>
  
 ### Exercises
-https://bit.ly/2VtXJB3
+<https://bit.ly/2VtXJB3>
 
 ### References
  - <resource_0>
@@ -33,10 +33,10 @@ https://bit.ly/2VtXJB3
 
 ## Part 2: Analysing Datasets using Pandas
 ### Slides
-https://bit.ly/3avdaNR
+<https://bit.ly/3avdaNR>
  
 ### Exercises
-https://bit.ly/3eJC5QP
+<https://bit.ly/3eJC5QP>
 
 ### References
  - <resource_0>
@@ -44,10 +44,10 @@ https://bit.ly/3eJC5QP
 
 ## Part 3: Machine Learning
 ### Slides
-https://bit.ly/2Vqx3kO
+<https://bit.ly/2Vqx3kO>
  
 ### Exercises
-https://bit.ly/3avhnkC
+<https://bit.ly/3avhnkC>
 
 ### References
  - <resource_0>
