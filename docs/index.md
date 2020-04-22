@@ -1,6 +1,8 @@
 # Introduction to Data Analysis and Machine Learning Course
 *by Jonathan Frawley*
 
+This page: [https://bit.ly/3bpUjF4](https://bit.ly/3bpUjF4)
+
 This is the entry point for ARC's Introduction to Data Analysis and Machine Learning course.
 If you notice any mistakes, please send a message in Zoom to one of the organisers.
 If you notice an issue outside of the online course, please raise an issue through [Github](https://github.com/jonathanfrawley/data_analysis_and_machine_learning_course).
