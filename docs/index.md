@@ -20,10 +20,10 @@ If you have any questions or issues, feel free to ask one of our instructors.
 
 ## Part 1: Introduction to Probability
 ### Slides
-<link to slide_0>
+https://bit.ly/2VNQR0z
  
 ### Exercises
-<link to exercise_0>
+https://bit.ly/2VtXJB3
 
 ## Other links
  - <resource_0>
@@ -33,10 +33,10 @@ If you have any questions or issues, feel free to ask one of our instructors.
 
 ## Part 2: Analysing Datasets using Pandas
 ### Slides
-<link to slide_0>
+https://bit.ly/3avdaNR
  
 ### Exercises
-<link to exercise_0>
+https://bit.ly/3eJC5QP
 
 ## Other links
  - <resource_0>
@@ -44,10 +44,10 @@ If you have any questions or issues, feel free to ask one of our instructors.
 
 ## Part 3: Machine Learning
 ### Slides
-<link to slide_0>
+https://bit.ly/2Vqx3kO
  
 ### Exercises
-<link to exercise_0>
+https://bit.ly/3avhnkC
 
 ## Other links
  - <resource_0>
