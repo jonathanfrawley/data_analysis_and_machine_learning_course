@@ -25,7 +25,7 @@ https://bit.ly/2VNQR0z
 ### Exercises
 https://bit.ly/2VtXJB3
 
-## Other links
+### References
  - <resource_0>
  
 
@@ -38,7 +38,7 @@ https://bit.ly/3avdaNR
 ### Exercises
 https://bit.ly/3eJC5QP
 
-## Other links
+### References
  - <resource_0>
 
 
@@ -49,5 +49,5 @@ https://bit.ly/2Vqx3kO
 ### Exercises
 https://bit.ly/3avhnkC
 
-## Other links
+### References
  - <resource_0>
