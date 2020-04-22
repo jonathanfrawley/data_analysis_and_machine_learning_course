@@ -25,6 +25,8 @@ If you have any questions or issues, feel free to ask one of our instructors.
 ### Exercises
 <https://bit.ly/2VtXJB3>
 
+### Answers
+<https://bit.ly/3bwCELQ>
 
 ## Part 2: Analysing Datasets using Pandas
 ### Slides
@@ -32,6 +34,9 @@ If you have any questions or issues, feel free to ask one of our instructors.
  
 ### Exercises
 <https://bit.ly/3eJC5QP>
+
+### Answers
+<https://bit.ly/3eGmOQU>
 
 ## Part 3: Machine Learning
 ### Slides
