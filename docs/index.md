@@ -47,3 +47,6 @@ If you have any questions or issues, feel free to ask one of our instructors.
  
 ### Exercises
 <https://bit.ly/3avhnkC>
+
+### Answers
+<https://bit.ly/3cSCX4f>
