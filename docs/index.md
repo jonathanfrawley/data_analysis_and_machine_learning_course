@@ -19,8 +19,6 @@ Please use the following to try out Colab and make sure everything works as inte
 
 NOTE: The machine learning exercises will require usage of a GPU. To enable this, go to the "Runtime" menu at the top of the page, and click select the "Change Runtime Type" option. Under "Hardware Accelerator", choose "GPU" and then hit "Save". 
 
-If you have any questions or issues, feel free to ask one of our instructors.
-
 ## Part 1: Introduction to Probability
 ### Slides
 <https://bit.ly/2VNQR0z>
