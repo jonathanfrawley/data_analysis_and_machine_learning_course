@@ -16,12 +16,12 @@ You can edit the code by double-clicking on a cell.
 You can reevaluate the code after editing to see the updated output.
 Output such as text and images automatically displayed, which is especially useful when outputting graphs or visualisations.
 
+Please use the following to try out Colab and make sure everything works as intended for you: <https://bit.ly/2KqGiet>
+
 NOTE: The machine learning exercises will require usage of a GPU. To enable this, go to the "Runtime" menu at the top of the page, and click select the "Change Runtime Type" option. Under "Hardware Accelerator", choose "GPU" and then hit "Save". 
 
 If you have any questions or issues, feel free to ask one of our instructors.
 
-## Example Notebook
-Please use the following to try out Colab and make sure everything works as intended for you: <https://bit.ly/2KqGiet>
 
 ## Part 1: Introduction to Probability
 ### Slides
