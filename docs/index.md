@@ -19,7 +19,7 @@ Please use the following to try out Colab and make sure everything works as inte
 
 NOTE: The machine learning exercises will require usage of a GPU. To enable this, go to the "Runtime" menu at the top of the page, and click select the "Change Runtime Type" option. Under "Hardware Accelerator", choose "GPU" and then hit "Save". 
 
-## Part 1: Introduction to Probability
+## Part 1: Introduction to NumPy, Matplotlib and Probability 
 ### Slides
 <https://bit.ly/2VNQR0z>
  
@@ -48,3 +48,6 @@ NOTE: The machine learning exercises will require usage of a GPU. To enable this
 
 ### Answers
 <https://bit.ly/2XVM0Nr>
+
+## Part 4: Final Words
+<https://bit.ly/3eKl0WZ>
