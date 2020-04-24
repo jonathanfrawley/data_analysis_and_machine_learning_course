@@ -13228,7 +13228,7 @@ a.anchor-link {
 </ul>
 <h3 id="Supervised-Machine-Learning">Supervised Machine Learning<a class="anchor-link" href="#Supervised-Machine-Learning">&#182;</a></h3><ul>
 <li>Learn how to accomplish a task automatically from data</li>
-<li>aka - Deep Learning</li>
+<li>aka - deep learning</li>
 </ul>
 
 </div>
@@ -13755,7 +13755,6 @@ a.anchor-link {
 
     <span class="k">for</span> <span class="n">batch_idx</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">ITER_PER_EPOCH</span><span class="p">):</span>
         <span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">target</span><span class="p">)</span> <span class="o">=</span> <span class="nb">next</span><span class="p">(</span><span class="n">train_iter</span><span class="p">)</span>
-        <span class="c1">#for batch_idx, (data, target) in enumerate(train_loader):</span>
         <span class="n">data</span><span class="p">,</span> <span class="n">target</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">to</span><span class="p">(</span><span class="n">device</span><span class="p">),</span> <span class="n">target</span><span class="o">.</span><span class="n">to</span><span class="p">(</span><span class="n">device</span><span class="p">)</span>
         <span class="n">optimizer</span><span class="o">.</span><span class="n">zero_grad</span><span class="p">()</span>
         <span class="n">output</span> <span class="o">=</span> <span class="n">model</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
@@ -13835,9 +13834,9 @@ a.anchor-link {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Resources">Resources<a class="anchor-link" href="#Resources">&#182;</a></h2><ul>
-<li>Deep Learning Book: <a href="https://www.deeplearningbook.org/">https://www.deeplearningbook.org/</a></li>
+<li>Deep learning Book: <a href="https://www.deeplearningbook.org/">https://www.deeplearningbook.org/</a></li>
 <li>PyTorch: <a href="https://pytorch.org/tutorials/">https://pytorch.org/tutorials/</a></li>
-<li>Random Forests: <a href="https://towardsdatascience.com/understanding-random-forest-58381e0602d2">https://towardsdatascience.com/understanding-random-forest-58381e0602d2</a></li>
+<li>Random forests: <a href="https://towardsdatascience.com/understanding-random-forest-58381e0602d2">https://towardsdatascience.com/understanding-random-forest-58381e0602d2</a></li>
 <li>Underfitting and overfitting image (accessed on 2019-06-06): <a href="https://medium.com/greyatom/what-is-underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6803a989c76">https://medium.com/greyatom/what-is-underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6803a989c76</a></li>
 <li>Understanding convolutions: <a href="https://github.com/vdumoulin/conv_arithmetic">https://github.com/vdumoulin/conv_arithmetic</a></li>
 </ul>
