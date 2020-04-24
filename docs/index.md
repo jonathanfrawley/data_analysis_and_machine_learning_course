@@ -21,7 +21,7 @@ NOTE: The machine learning exercises will require usage of a GPU. To enable this
 
 ## Part 1: Introduction to NumPy, Matplotlib and Probability 
 ### Slides
-<https://bit.ly/2VNQR0z>
+<https://jonathanfrawley.github.io/data_analysis_and_machine_learning_course/slides/slides_01.slides.html>
  
 ### Exercises
 <https://bit.ly/2VtXJB3>
@@ -31,7 +31,7 @@ NOTE: The machine learning exercises will require usage of a GPU. To enable this
 
 ## Part 2: Analysing Datasets using Pandas
 ### Slides
-<https://bit.ly/3avdaNR>
+<https://jonathanfrawley.github.io/data_analysis_and_machine_learning_course/slides/slides_02.slides.html>
  
 ### Exercises
 <https://bit.ly/3eJC5QP>
@@ -41,7 +41,7 @@ NOTE: The machine learning exercises will require usage of a GPU. To enable this
 
 ## Part 3: Machine Learning
 ### Slides
-<https://bit.ly/2Vqx3kO>
+<https://jonathanfrawley.github.io/data_analysis_and_machine_learning_course/slides/slides_03.slides.html>
  
 ### Exercises
 <https://bit.ly/3avhnkC>
@@ -50,4 +50,4 @@ NOTE: The machine learning exercises will require usage of a GPU. To enable this
 <https://bit.ly/2XVM0Nr>
 
 ## Part 4: Final Words
-<https://bit.ly/3eKl0WZ>
+<https://jonathanfrawley.github.io/data_analysis_and_machine_learning_course/slides/slides_04.slides.html>
