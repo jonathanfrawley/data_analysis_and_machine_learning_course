@@ -1,8 +1,6 @@
 # Introduction to Data Analysis and Machine Learning Course
 *by Jonathan Frawley*
 
-2020-04-23 course registration and feedback: <https://bit.ly/2VTTtK2>
-
 This page: <https://bit.ly/3bpUjF4>
 
 If you notice any mistakes, please send a message in Zoom to one of the instructors.
