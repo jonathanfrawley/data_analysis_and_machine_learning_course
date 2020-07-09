@@ -3,7 +3,6 @@
 
 This page: <https://bit.ly/3bpUjF4>
 
-If you notice any mistakes, please send a message in Zoom to one of the instructors.
 If you notice an issue after the online course, please raise an issue through [Github](https://github.com/jonathanfrawley/data_analysis_and_machine_learning_course).
 
 ## How to use
