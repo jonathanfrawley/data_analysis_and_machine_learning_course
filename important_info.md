@@ -7,6 +7,7 @@
  6. Wrap up (12:20-12:30)
 
 # Links
+
 ## Part 1: Introduction to NumPy, Matplotlib and Probability 
 ### Slides
 <https://bit.ly/2VNQR0z>
@@ -39,6 +40,7 @@
 
 ## Part 4: Final Words
 <https://bit.ly/3eKl0WZ>
+
 
 # Feedback form
 <https://bit.ly/arc_trainingfeedback>
