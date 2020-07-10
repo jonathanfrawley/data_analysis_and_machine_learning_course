@@ -1,8 +1,8 @@
 # Timetable
  1. General introduction, NumPy, Matplotlib and basic probability theory (9:30-10:00, exercises 10:00-10:20)
  2. Break (10:20-10:30)
- 3. Pandas and data analysis (10:30-10:50, exercises 10:50-11:10)
- 4. Break (11:10-11:20)
+ 3. Pandas and data analysis (10:30-10:45, exercises 10:45-11:05)
+ 4. Break (11:05-11:15)
  5. PyTorch and deep learning introduction (11:20-12:00, exercises 12:00-12:20)
  6. Wrap up (12:20-12:30)
 
@@ -44,3 +44,5 @@
 
 # Feedback form
 <https://bit.ly/arc_trainingfeedback>
+
+Resources: https://www.dur.ac.uk/arc/password/training/resources/
